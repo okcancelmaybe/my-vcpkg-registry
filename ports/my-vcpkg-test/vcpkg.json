@@ -1,0 +1,6 @@
+{
+    "name": "my-vcpkg-test",
+    "version-string": "24.3.0",
+    "description": "A simple math library for demonstration purposes."
+  }
+  
