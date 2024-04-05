@@ -1,6 +1,11 @@
 {
-    "default": {
-      "baseline": "0c9fb1d924d415da933c9196e7ca62d46c8f0622",
-      "port-version": 0
-    }
+  "default": {
+      "baseline": "1149355e370ec32c58165786a9a84da63b42abd0",
+      "ports": {
+          "my-vcpkg-test": {
+              "baseline": "version-of-my-vcpkg-test",
+              "port-version": 0
+          }
+      }
+  }
 }
